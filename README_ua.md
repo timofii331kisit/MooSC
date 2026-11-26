@@ -1,5 +1,5 @@
 # MooS Calculator v0.11.8 (Stalzone)
-
+**Language:** [Русский](README_ru.md) | [English](README.md) | Українська
 **Автор:** 2TheMoon / TheMoom  
 **Замовник (Requested by):** Serega_Aspect  
 
